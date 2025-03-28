@@ -1,15 +1,15 @@
-#TCP client-server
+# TCP client-server
 Această aplicație permite comunicarea între mai mulți utilizatori printr-un server central folosind sockets TCP.
 
-##Structura proiectului
+## Structura proiectului
 Proiectul conține două fișiere principale:
 server.py - Scriptul serverului care gestionează conexiunile și mesajele
 client.py - Scriptul clientului care permite utilizatorilor să se conecteze și să comunice
 
-#Instalare
+# Instalare
 Nu sunt necesare biblioteci externe. Aplicația folosește doar biblioteci standard Python.
 
-#Utilizare
+# Utilizare
 Pornirea serverului
 Deschideți un terminal și navigați la directorul unde se află fișierul server.py
 
